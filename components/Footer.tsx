@@ -56,7 +56,7 @@ const Footer: React.FC = () => {
         <div className="border-t border-white/5 pt-10 text-center text-gray-500 text-sm">
           <p>© 2024 Mi Cocina Sin Tacc. Todos los derechos reservados.</p>
           <p className="mt-2 flex items-center justify-center">
-            Diseñado con <i className="fas fa-heart text-red-600 mx-1"></i> por Visionary Web Studio
+            Diseñado con <i className="fas fa-heart text-red-600 mx-1"></i> por Folkode
           </p>
         </div>
       </div>
