@@ -18,10 +18,10 @@ interface SocialPost {
 const SOCIAL_POSTS: SocialPost[] = [
   { id: 1, type: 'Instagram', image: 'https://images.unsplash.com/photo-1551024601-bec78aea704b?q=80&w=1200', link: 'https://instagram.com/micocinasintacc' },
   { id: 2, type: 'Facebook', image: 'https://images.unsplash.com/photo-1495147466023-ac5c588e2e94?q=80&w=1200', link: 'https://www.facebook.com/micocinasintaccglew' },
-  { id: 3, type: 'Eventos', image: 'https://images.unsplash.com/photo-1530103043960-ef38714abb15?q=80&w=1200', link: '#' },
+  { id: 3, type: 'Eventos', image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAvD_vgjciyIpUBVlwFTT2KmOMT0gHqAcdPg&s', link: '#' },
   { id: 4, type: 'Instagram', image: 'https://images.unsplash.com/photo-1512621776951-a57141f2eefd?q=80&w=1200', link: 'https://instagram.com/micocinasintacc' },
   { id: 5, type: 'Facebook', image: 'https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?q=80&w=1200', link: 'https://www.facebook.com/micocinasintaccglew' },
-  { id: 6, type: 'Eventos', image: 'https://images.unsplash.com/photo-1528605248644-14dd04022da1?q=80&w=1200', link: '#' },
+  { id: 6, type: 'Eventos', image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt9nqVOeRggTEDAb5WsxNORWf7RSIEhtPOtQ&s', link: '#' },
   { id: 7, type: 'Instagram', image: 'https://images.unsplash.com/photo-1559339352-11d035aa65de?q=80&w=1200', link: 'https://instagram.com/micocinasintacc' },
   { id: 8, type: 'Facebook', image: 'https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=1200', link: 'https://www.facebook.com/micocinasintaccglew' },
 ];
