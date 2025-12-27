@@ -22,7 +22,7 @@ export const PRODUCTS: Product[] = [
     name: 'Tarta Frutal de Estación',
     description: 'Masa quebrada crujiente con crema pastelera y frutas frescas.',
     price: 3500,
-    image: 'https://images.unsplash.com/photo-1464305795204-6f5bdf7f81b1?q=80&w=800',
+    image: 'https://www.nuria.com.ar/wp-content/uploads/2018/12/Confiteria-Nuria-2018-73.jpg',
     category: 'Dulce'
   },
   {
@@ -30,7 +30,7 @@ export const PRODUCTS: Product[] = [
     name: 'Docena de Empanadas',
     description: 'Masa casera súper elástica, rellenos gourmet.',
     price: 4800,
-    image: 'https://images.unsplash.com/photo-1628102476629-382c99f0be33?q=80&w=800',
+    image: 'https://newbarmdp.com/wp-content/uploads/empanadas-sanjuaninas.jpg',
     category: 'Salado'
   },
   {
